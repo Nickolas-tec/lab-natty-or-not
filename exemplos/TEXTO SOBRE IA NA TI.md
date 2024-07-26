@@ -14,7 +14,7 @@ Utilizei o ChatGPT para criar um texto de 30 linhas que descorresse sobre a hist
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[https://github.com/Nickolas-tec/lab-natty-or-not/blob/main/exemplos/TEXTO.docx]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
