@@ -14,7 +14,7 @@ Utilizei o ChatGPT para criar um texto de 30 linhas que descorresse sobre a hist
 ## 🚀 Resultados
 O texto e bem simples e conta com um layout e fonte básica, porém o intuito e apenas mostrar a capacidade da IA de resumir e contextualizar um assunto de forma simples e clara.
 
-[https://github.com/Nickolas-tec/lab-natty-or-not/blob/main/exemplos/TEXTO.docx]()
+[LINK PARA O TEXTO AQUI ](https://github.com/Nickolas-tec/lab-natty-or-not/blob/main/exemplos)
 
 ## 💭 Reflexão
 Criar este texto foi algo básico porém eu soube descrever o que eu queria para o prompt e isso facilitou o trabalho da IA.
