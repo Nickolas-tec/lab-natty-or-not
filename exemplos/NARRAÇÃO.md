@@ -13,7 +13,7 @@ Um aúdio aonde uma voz gerada a partir de um texto passado para o prompt contex
 ## 🚀 Resultados
 O áudio é uma introdução acessível e estimulante ao campo dos algoritmos das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O ÁUDIO AQUI](https://github.com/Nickolas-tec/lab-natty-or-not/blob/main/exemplos/AUDIO.mp3)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
