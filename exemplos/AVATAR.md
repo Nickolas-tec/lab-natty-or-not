@@ -12,7 +12,7 @@ Usei o "D-ID" para gerar um avatar virtual que dá boas vindas ao usuário.
 ## 🚀 Resultados
 O vídeo conta com o avatar em um cenário tranquilo e escuro e com uma frase de saudações.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/Nickolas-tec/lab-natty-or-not/blob/main/exemplos/VIDEO%20ASSISTENTE.mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência muito didatica pois tive mais contato com o DI-ID.
